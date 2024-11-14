@@ -6,3 +6,4 @@ Comment=Development builds of Futr
 Description=Official Flatpak repository for Futr development builds
 Icon=https://raw.githubusercontent.com/futrnostr/futr/master/flatpak/nostr-purple.png
 GPGVerify=false
+GPGVerifySummary=false
